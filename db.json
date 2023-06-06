@@ -1,0 +1,34 @@
+{
+    "offers": [
+        {
+            "id": "01t0Q00000BMoBCQA1",
+            "name": "Pack Business",
+            "price": "49.0",
+            "description": "Famille de Produit Pack Business",
+            "url": null
+        },
+        {
+            "id": "01t0Q00000BMoB7QAL",
+            "name": "Pack Essentiel",
+            "price": "29.0",
+            "description": "Famille de Produit Pack Essentiel",
+            "url": null
+        }
+    ],
+    "terminals": [
+        {
+            "id": "01t0Q00000BMo9PQAT",
+            "name": "Pocket TPE Android  A50",
+            "price": "249.0",
+            "description": "Pocket TPE Android",
+            "url": "https://santeffi--integ.sandbox.file.force.com/sfc/dist/version/renditionDownload?rendition=ORIGINAL_Jpg&versionId=0680Q000004GDsN&operationContext=DELIVERY&contentId=05T0Q000008sEQm&page=0&d=/a/0Q0000002Opk/MBqxUefa159nHI.7pVvHl9Jh6I3HOMxnobDq9rcaSc4&oid=00D0Q0000000aJP&dpt=null&viewId="
+        },
+        {
+            "id": "01t0Q00000BMo9FQAT",
+            "name": "Pocket TPE MPOS D177",
+            "price": "39.0",
+            "description": "MPOS",
+            "url": "https://santeffi--integ.sandbox.file.force.com/sfc/dist/version/renditionDownload?rendition=ORIGINAL_Jpg&versionId=0680Q000004GDsm&operationContext=DELIVERY&contentId=05T0Q000008sERG&page=0&d=/a/0Q0000002OqE/1KVY.2ee8ZwPfKPz5UdzOu1qz44kj8zrLS9Yv0s.urQ&oid=00D0Q0000000aJP&dpt=null&viewId="
+        }
+    ]
+}

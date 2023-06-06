@@ -1,0 +1,33 @@
+{
+    "offers": [
+        {
+            "id": 1,
+            "title": "Essentiel",
+            "imageUrl": "assets/images/essentiel.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, nisl id aliquam sodales, nunc nibh ultricies nunc, quis aliquet nisl nunc vitae nisl. Sed vitae nisl auctor, alique",
+            "price": 9
+        },
+        {
+            "title": "Business",
+            "imageUrl": "assets/images/business.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, nisl id aliquam sodales, nunc nibh ultricies nunc, quis aliquet nisl nunc vitae nisl. Sed vitae nisl auctor, alique",
+            "price": 13
+        }
+    ],
+    "terminals": [
+        {
+            "title": "Paymed Basic",
+            "imageUrl": "assets/terminal.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "feature": "Avec connexion mobile",
+            "price": 25
+        },
+        {
+            "title": "Paymed Premium",
+            "imageUrl": "assets/terminal.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "feature": "Avec support de charge intégré",
+            "price": 39
+        }
+    ]
+}
